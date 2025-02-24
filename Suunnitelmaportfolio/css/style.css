@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #f0f7f0;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.projekti {
+    background: white;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.projekti img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border: 2px solid #2c5f2d;
+}
+
+a {
+    display: inline-block;
+    background: #2c5f2d;
+    color: white!important;
+    padding: 8px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
+    background: #2c5f2d;
+    color: white;
+}
